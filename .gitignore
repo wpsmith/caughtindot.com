@@ -53,6 +53,9 @@ wp-content/mysql.sql
 wp-content/mu-plugins/wpe
 wp-content/mu-plugins/mu.php
 
+# Languages
+wp-content/languages
+
 # Sitemaps
 sitemap.xml
 sitemap.xml.gz
